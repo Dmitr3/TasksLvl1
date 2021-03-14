@@ -2,8 +2,3 @@
 \out
 *.log
 *.iml
-.idea
-target/
-output/
-release/
-debug/
